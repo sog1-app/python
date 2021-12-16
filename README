@@ -2,3 +2,5 @@
 pip3 install -r requiremnts.txt
 az login
 python provision_vm.py
+
+https://docs.microsoft.com/en-us/azure/developer/python/azure-sdk-example-virtual-machines?tabs=cmd
