@@ -1,0 +1,4 @@
+
+pip3 install -r requiremnts.txt
+az login
+python provision_vm.py
